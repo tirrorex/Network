@@ -1,0 +1,2 @@
+The file to modify is /etc/hostname
+We then have to run /etc/init.d/hostname.sh start to make the change active

@@ -1,0 +1,3 @@
+#!/bin/sh
+whoami
+ls -l /etc/passwd | awk '{print $3 $2 $9}'

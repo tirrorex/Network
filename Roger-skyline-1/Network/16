@@ -1,0 +1,4 @@
+fait en modifiant /etc/hosts en rajoutant cette ligne
+62.210.207.183   intra.42.fr
+
+N'est pas possible sur nos macs a cause d'un probleme de droits

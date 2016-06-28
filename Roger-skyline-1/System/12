@@ -1,2 +1,14 @@
-2107704 /var
-2107704 total
+$ du -c --max-depth=1 /var | sort -hr
+
+264376	/var
+264376	total
+183768	/var/lib
+57548	/var/cache
+18760	/var/log
+3992	/var/backups
+196	/var/tmp
+88	/var/spool
+8	/var/mail
+4	/var/opt
+4	/var/local
+4	/var/games

@@ -1,3 +1,4 @@
+service sshd status
 ssh.service - OpenBSD Secure Shell server
     Loaded : loaded
     Active: active (running)

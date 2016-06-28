@@ -1,2 +1,1 @@
-interface: en0
-gateway: 10.11.254.254
+nat-1 (10.60.1.11)  0.209 ms  0.185 ms  0.164 ms

@@ -1,6 +1,6 @@
 #!/bin/bash
 
-[ -z `find /etc/crontab -mtime 0 ` ]
+[ -z `find /etc/crontab -mtime 0 ` ]   <<<< use md5sums
 
 if [ $? -eq 0 ]
 then
